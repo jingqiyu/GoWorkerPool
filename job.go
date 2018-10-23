@@ -2,7 +2,7 @@
 package main
 
 import (
-	"git.xiaojukeji.com/dape/fountain4pocket/job/workerPool"
+	"workerPool"
 	"time"
 )
 
